@@ -32,6 +32,6 @@ docker compose up -d --build
 docker compose exec app python /app/prueba.py
 
 5. El archivo de salida se generará en:
-app/data/clientes_filtrados.csv
+app/data/clientes_colombia.csv
 
 Tecnologías utilizadas: Python, pandas, SQLAlchemy, PostgreSQL, Docker

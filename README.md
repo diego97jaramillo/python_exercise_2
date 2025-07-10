@@ -20,8 +20,8 @@ Requisitos: Docker y Docker Compose.
 Instrucciones de ejecución:
 
 1. Clonar el repositorio:
-git clone 
-cd mi_proyecto
+git clone https://github.com/diego97jaramillo/python_exercise_2.git
+cd python_exercise_2
 
 2. Crear el archivo .env basado en .env.example
 
